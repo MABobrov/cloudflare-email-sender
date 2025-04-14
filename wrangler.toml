@@ -12,3 +12,4 @@ SENDER_EMAIL = "do-not-replay@neura-tech.pro"
 # 发信人简称/名字
 SENDER_NAME = "neura-tech"
 ACCESS_TOKEN = "15051993"
+RESEND_APIKEY = "re_dkCY4KzA_2MeXMACP3A4fq2M1HSx2YwdL"
