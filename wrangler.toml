@@ -8,6 +8,6 @@ dev.port = 8787
 
 [vars]
 # 自定义域名的发信邮件地址
-# SENDER_EMAIL = "do-not-replay@example.com"
+SENDER_EMAIL = "do-not-replay@neura-tech.pro"
 # 发信人简称/名字
-# SENDER_NAME = "Example"
+SENDER_NAME = "neura-tech"
